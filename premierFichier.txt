@@ -1,4 +1,8 @@
 hello
 le zero!
+<<<<<<< HEAD
 plus de bg
 erreur
+=======
+bg
+>>>>>>> parent of d35476a (erreur)
